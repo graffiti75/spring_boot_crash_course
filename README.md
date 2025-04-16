@@ -1,3 +1,17 @@
+# Where I stopped into Philipp's video
+
+<img src="screenshots/Screenshot 2025-04-16 at 15.11.51.png" alt="Where I stopped into Philipp's video" width="1008" height="655">
+
+# Environment variables inside IntellijIDEA
+
+<img src="screenshots/Screenshot 2025-04-16 at 15.26.01.png" alt="Environment variables inside IntellijIDEA" width="1008" height="655">
+
+# Postman replies
+
+<img src="screenshots/Screenshot 2025-04-16 at 15.26.50.png" alt="Postman replies - Part 1" width="1008" height="655">
+<img src="screenshots/Screenshot 2025-04-16 at 15.26.59.png" alt="Postman replies - Part 2" width="1008" height="655">
+<img src="screenshots/Screenshot 2025-04-16 at 15.27.40.png" alt="Postman replies - Part 3" width="1008" height="655">
+
 # Gist to the Log
 
 [Here](https://gist.github.com/graffiti75/84be2ed37759c7e6c517eb71016ebfb9) is the Gist showing the Log when I try to run the SpringBootCrashCourse app
